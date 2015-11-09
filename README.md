@@ -1,5 +1,5 @@
 # node-string-algorithms
-Just a quick repository to demonstrate an issue I'm having with the Revealing Module Pattern
+Just a quick repository to demonstrate an issue I'm having with the Revealing Module Pattern where including one module could easily change the operation of a completely different module, either deliberately or by mistake.
 
 #### User's code
 ```js
